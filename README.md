@@ -1,4 +1,4 @@
-# UP Echo
+# Chat API
 
 Simple Chat API with Echo and MySQL
 
