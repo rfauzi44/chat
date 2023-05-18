@@ -1,6 +1,6 @@
-# Chat API
+# Chat
 
-Simple Chat API with Echo and MySQL
+Simple Chat Storage System
 
 ## 🔥 Showcase
 
