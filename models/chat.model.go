@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/rfauzi44/chat-api/db"
-	"github.com/rfauzi44/chat-api/libs"
+	"github.com/rfauzi44/chat/db"
+	"github.com/rfauzi44/chat/libs"
 )
 
 type Chat struct {

@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/labstack/echo/v4"
-	"github.com/rfauzi44/chat-api/controllers"
+	"github.com/rfauzi44/chat/controllers"
 )
 
 func New() *echo.Echo {

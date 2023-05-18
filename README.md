@@ -11,7 +11,7 @@ Simple Chat Storage System
 1. Clone this project
 
 ```bash
-git clone https://github.com/rfauzi44/chat-api.git
+git clone https://github.com/rfauzi44/chat.git
 ```
 
 2. Setup MySQL Database and restore dump from db folder

@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/labstack/echo/v4"
-	"github.com/rfauzi44/chat-api/models"
+	"github.com/rfauzi44/chat/models"
 )
 
 func AddChat(c echo.Context) error {

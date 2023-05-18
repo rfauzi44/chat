@@ -1,4 +1,4 @@
-module github.com/rfauzi44/chat-api
+module github.com/rfauzi44/chat
 
 go 1.20
 
