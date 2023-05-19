@@ -1,6 +1,6 @@
 # Chat
 
-Simple Chat Storage System
+Chat Storage System
 
 ## 🔥 Showcase
 
